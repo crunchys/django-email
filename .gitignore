@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+.env
+subscribers.json
+template.html
+db.sqlite3
